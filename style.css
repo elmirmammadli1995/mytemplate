@@ -77,17 +77,18 @@ header .menu:hover a {
 }
 #services .box {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   text-align: center;
+  padding: 50px;
 }
-#services .box .textbox .icon {
+#services .box .icon {
   background-color: #ffc800;
   border-radius: 50%;
-  padding: 40px 20px;
-  width: 300px;
+  padding: 20px 15px;
 }
-#services .box .textbox .icon i {
-  font-size: 50px;
+#services .box .icon i {
+  font-size: 55px;
   font-weight: 700;
   color: white;
 }/*# sourceMappingURL=style.css.map */
