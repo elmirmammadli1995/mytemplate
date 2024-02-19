@@ -32,6 +32,7 @@ header .menu:hover a {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  height: 600px;
 }
 #welcome .textbox {
   letter-spacing: 1px;
@@ -50,7 +51,7 @@ header .menu:hover a {
   padding: 20px 50px;
   border-radius: 5px;
   background-color: #ffc800;
-  margin: 70px 0 90px;
+  margin: 70px 0 0 0;
 }
 #welcome .textbox .btn h4 {
   font-size: 18px;
