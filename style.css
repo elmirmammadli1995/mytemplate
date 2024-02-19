@@ -25,4 +25,8 @@ header .menu a {
 }
 header .menu:hover a {
   color: #e3ad11;
+}
+
+#welcome {
+  background-image: assets/2jpg;
 }/*# sourceMappingURL=style.css.map */
