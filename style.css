@@ -57,4 +57,19 @@ header .menu:hover a {
   font-size: 18px;
   font-weight: 700;
   color: #fffaf6;
+}
+
+#services {
+  text-align: center;
+  letter-spacing: 0.5px;
+}
+#services h1 {
+  font-size: 35px;
+  font-weight: 600;
+  color: #212529;
+}
+#services h3 {
+  font-size: 16px;
+  color: #6c757d;
+  margin: 20px 80px;
 }/*# sourceMappingURL=style.css.map */
