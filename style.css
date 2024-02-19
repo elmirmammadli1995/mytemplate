@@ -4,7 +4,7 @@ body {
 }
 
 section {
-  padding: 80px 0;
+  padding: 50px 0;
 }
 
 header {
@@ -28,29 +28,32 @@ header .menu:hover a {
 }
 
 #welcome {
-  background-color: #abf2a7;
+  background-image: url(assets/2.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 #welcome .textbox {
-  width: 650px;
+  letter-spacing: 1px;
 }
 #welcome .textbox h3 {
   font-size: 40px;
   color: #ffffff;
+  margin-bottom: 30px;
 }
 #welcome .textbox h1 {
   font-size: 70px;
   font-weight: 700;
   color: #ffffff;
-  margin: 30px 0 70px;
 }
 #welcome .textbox .btn {
-  padding: 20px 40px;
+  padding: 20px 50px;
   border-radius: 5px;
   background-color: #ffc800;
+  margin: 70px 0 90px;
 }
 #welcome .textbox .btn h4 {
-  font-size: 22px;
-  font-weight: 600;
+  font-size: 18px;
+  font-weight: 700;
   color: #fffaf6;
-  letter-spacing: 1px;
 }/*# sourceMappingURL=style.css.map */
