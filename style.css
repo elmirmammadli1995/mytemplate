@@ -62,29 +62,32 @@ header .menu:hover a {
 #services {
   letter-spacing: 0.5px;
 }
-#services .textbox {
+#services .wdth {
   text-align: center;
 }
-#services .textbox h1 {
+#services .wdth h1 {
   font-size: 35px;
   font-weight: 600;
   color: #212529;
 }
-#services .textbox h3 {
+#services .wdth h3 {
   font-size: 16px;
   color: #6c757d;
   margin: 20px 80px;
 }
 #services .box {
+  display: flex;
+  justify-content: center;
   text-align: center;
 }
-#services .box .icon {
+#services .box .textbox .icon {
   background-color: #ffc800;
   border-radius: 50%;
-  padding: 30px 10px;
-  width: 200px;
+  padding: 40px 20px;
+  width: 300px;
 }
-#services .box .icon i {
-  font-size: 30px;
+#services .box .textbox .icon i {
+  font-size: 50px;
+  font-weight: 700;
   color: white;
 }/*# sourceMappingURL=style.css.map */
