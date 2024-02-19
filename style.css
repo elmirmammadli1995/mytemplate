@@ -4,7 +4,7 @@ body {
 }
 
 section {
-  padding: 50px 0;
+  padding: 80px 0;
 }
 
 header {
@@ -41,13 +41,16 @@ header .menu:hover a {
   font-size: 70px;
   font-weight: 700;
   color: #ffffff;
+  margin: 30px 0 70px;
 }
 #welcome .textbox .btn {
   padding: 20px 40px;
+  border-radius: 5px;
   background-color: #ffc800;
 }
 #welcome .textbox .btn h4 {
   font-size: 22px;
   font-weight: 600;
   color: #fffaf6;
+  letter-spacing: 1px;
 }/*# sourceMappingURL=style.css.map */
