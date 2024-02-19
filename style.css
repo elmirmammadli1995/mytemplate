@@ -28,5 +28,26 @@ header .menu:hover a {
 }
 
 #welcome {
-  background-image: assets/2jpg;
+  background-color: #abf2a7;
+}
+#welcome .textbox {
+  width: 650px;
+}
+#welcome .textbox h3 {
+  font-size: 40px;
+  color: #ffffff;
+}
+#welcome .textbox h1 {
+  font-size: 70px;
+  font-weight: 700;
+  color: #ffffff;
+}
+#welcome .textbox .btn {
+  padding: 20px 40px;
+  background-color: #ffc800;
+}
+#welcome .textbox .btn h4 {
+  font-size: 22px;
+  font-weight: 600;
+  color: #fffaf6;
 }/*# sourceMappingURL=style.css.map */
