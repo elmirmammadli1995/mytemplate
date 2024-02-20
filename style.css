@@ -60,15 +60,14 @@ header .menu:hover a {
 }
 
 #services {
-  text-align: center;
   letter-spacing: 0.5px;
 }
-#services .wdth h1 {
+#services h1 {
   font-size: 35px;
   font-weight: 700;
   color: #212529;
 }
-#services .wdth h3 {
+#services h1 h3 {
   font-size: 16px;
   color: #6c757d;
   margin: 20px 80px;
