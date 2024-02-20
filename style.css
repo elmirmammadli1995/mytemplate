@@ -110,7 +110,7 @@ header .menu:hover a {
   background-color: #f8f9fa;
 }
 #portfolio h1 {
-  font-size: 30px;
+  font-size: 35px;
   font-weight: 700;
   color: #212529;
 }
@@ -119,6 +119,16 @@ header .menu:hover a {
   color: #8b9298;
   margin: 25px 35px;
 }
+#portfolio .box {
+  display: inline-block;
+}
 #portfolio .box .imgbox {
-  width: 400px;
+  width: 410px;
+  height: 340px;
+  margin: 0 4px;
+}
+#portfolio .box .textbox h2 {
+  font-size: 25px;
+  font-weight: 700;
+  color: #212529;
 }/*# sourceMappingURL=style.css.map */
